@@ -1,2 +1,2 @@
-# Output with different output 
-<img src = "/file/output.png/" alt ="not found">
+# Screenshot of Outputs with different inputs
+<img src = "/file/output.png" alt ="not found">

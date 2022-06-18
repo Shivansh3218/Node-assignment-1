@@ -1,2 +1,2 @@
 # Output with different output 
-<img src = "/file/firstandlast.png/">
+<img src = "/file/output.png/">

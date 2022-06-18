@@ -1,2 +1,2 @@
 # Output with different output 
-<img src = ""C:\Users\shiva\Pictures\Screenshots\firstandlast.png"">
+<img src = "/file/firstandlast.png">

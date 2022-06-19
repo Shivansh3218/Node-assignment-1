@@ -1,3 +1,3 @@
 # Assignment sum of even numbers
 
-# <img src = "sumofeven.png" alt = "Image not found">
+# <img src = "Sumofeven.png" alt = "Image not found">
